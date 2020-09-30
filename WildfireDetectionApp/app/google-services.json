@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "548513557157",
+    "firebase_url": "https://wildfiredetection-fdd86.firebaseio.com",
+    "project_id": "wildfiredetection-fdd86",
+    "storage_bucket": "wildfiredetection-fdd86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548513557157:android:72a4f953bda1a1718efb4c",
+        "android_client_info": {
+          "package_name": "com.example.wildfiredetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548513557157-s6al172f02nel8muqstbfrkkeseuu04j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wildfiredetection",
+            "certificate_hash": "87b06f8db2e5e3b8bfde7a8266958063537c84c8"
+          }
+        },
+        {
+          "client_id": "548513557157-seac5cc16spscaf1lic0uotg61qlkra8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaJnGa5g9wFaeAMI99jDBk3-n3lK0bVcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548513557157-seac5cc16spscaf1lic0uotg61qlkra8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

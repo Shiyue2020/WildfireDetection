@@ -1,0 +1,18 @@
+<resources >
+    <string name="app_name">WildfireDetection</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Register">Register</string>
+    <string name="Login">Login</string>
+    <string name="Logout">Log out</string>
+    <string name="Back">Back</string>
+    <string name= "List">Show list</string>
+    <string name="Message">Not registered yet?</string>
+    <string name="username"></string>
+    <string name="Help">Click button to call emergency</string>
+    <string name="SOS">SOS</string>
+    <string name="Twitter">Log in with Twitter</string>
+    <string name="twitter_consumer_key" translatable="false">Your_Consumer_Key_Here</string>
+    <string name="twitter_consumer_secret" translatable="false">Your_Consumer_Secret_Here</string>
+
+</resources>

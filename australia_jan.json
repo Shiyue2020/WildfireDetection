@@ -1,0 +1,523 @@
+{"Australia":[
+    {
+        "location":"Mount Surprise",
+        "latitude": -18.21131,
+        "longitude": 144.07895,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Wairuna",
+        "latitude": -18.36006,
+        "longitude": 145.37334,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Valley of Lagoons",
+        "latitude": -18.47566,
+        "longitude": 145.25246,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Pentland",
+        "latitude": -19.96589,
+        "longitude": 144.43098,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Kesley Creek",
+        "latitude": -20.44913,
+        "longitude": 148.43825,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Lake Proserphine",
+        "latitude": -20.4149,
+        "longitude": 148.3844,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Mount Isa",
+        "latitude": -20.73495,
+        "longitude": 139.47726,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+   
+    {
+        "location":"Mount Coolon",
+        "latitude": -21.65734,
+        "longitude": 147.50174,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Talandji",
+        "latitude": -21.69574,
+        "longitude": 115.00107,
+        "acq_date": "2020-01-07",
+        "acq_time": "1742"
+        
+
+    },
+    {
+        "location":"Wolfang",
+        "latitude": -22.72581,
+        "longitude": 147.63246,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Dalga",
+        "latitude": -24.58411,
+        "longitude": 151.5042,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Caldervale",
+        "latitude": -24.76582,
+        "longitude": 146.68871,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Mantuan Downs",
+        "latitude": -24.56887,
+        "longitude": 146.7426,
+        "acq_date": "2020-01-05",
+        "acq_time": "1454"
+       
+    },
+    {
+        "location":"Windeyer",
+        "latitude": -24.60299,
+        "longitude": 146.65584,
+        "acq_date": "2020-01-05",
+        "acq_time": "1454"
+        
+    },
+    {
+        "location":"Upper Warrego",
+        "latitude": -24.83318,
+        "longitude": 147.77911,
+        "acq_date": "2020-01-05",
+        "acq_time": "1454"
+        
+    },
+    {
+        "location":"Belington Hut State Forest",
+        "latitude": -25.38676,
+        "longitude": 149.17155,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Noorindo",
+        "latitude": -27.11225,
+        "longitude": 149.38147,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Heifer Station",
+        "latitude": -29.42196,
+        "longitude": 152.60188,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    
+    },
+    {
+        "location":"Moogem",
+        "latitude": -29.37596,
+        "longitude": 152.23259,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+      
+    },
+    {
+        "location":"Morven",
+        "latitude": -29.41391,
+        "longitude": 152.17465,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+        
+    },
+    {
+        "location":"Reddestone",
+        "latitude": -29.56257,
+        "longitude": 151.6311,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+       
+    },
+    {
+        "location":"Feysville",
+        "latitude": -30.86275,
+        "longitude": 121.49166,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location": "Naomi River",
+        "latitude": -30.52569,
+        "longitude": 150.85081,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+    {
+        "location":"New Valley",
+        "latitude": -30.08303,
+        "longitude": 151.30583,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+       
+    },
+    {
+        "location":"Yarrowyk",
+        "latitude": -30.45217,
+        "longitude": 151.319,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+    {
+        "location":"Cundeelee",
+        "latitude": -30.85794,
+        "longitude": 123.33946,
+        "acq_date": "2020-01-05",
+        "acq_time": "1642"
+        
+    },
+    {
+        "location":"Styx River",
+        "latitude": -30.78288,
+        "longitude": 152.04102,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342",
+        "satellite": "N"
+       
+    },
+    {
+        "location":"Warrabah",
+        "latitude": -30.52712,
+        "longitude": 150.93008,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+    {
+        "location":"Bendemeer",
+        "latitude": -30.64859,
+        "longitude": 151.15506,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+    {
+        "location":"Darkwood",
+        "latitude": -30.44516,
+        "longitude": 152.61497,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+    {
+        "location":"Brinerville",
+        "latitude": -30.49466,
+        "longitude": 152.5323,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+    {
+        "location":"Oakes",
+        "latitude": -30.49737,
+        "longitude": 152.53725,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+    {
+        "location":"New South Wales",
+        "latitude": -30.62722,
+        "longitude": 151.98688,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+
+    {
+        "location":"Comara",
+        "latitude": -30.55819,
+        "longitude": 152.42734,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+    {
+        "location":"Halls Creek",
+        "latitude": -30.85231,
+        "longitude": 151.01692,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+      {
+        "location":"Thumb Creek",
+        "latitude": -30.65217,
+        "longitude": 152.55827,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+      {
+        "location":"Oxely Wild Rivers",
+        "latitude": -30.75178,
+        "longitude": 152.01779,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+    {
+        "location":"Bellbrook",
+        "latitude": -30.66616,
+        "longitude": 152.53,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+      {
+        "location":"Jeogla",
+        "latitude": -30.77745,
+        "longitude": 152.03152,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+    {
+        "location":"Halls Creek",
+        "latitude": -30.86706,
+        "longitude": 151.03252,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+       
+    },
+    {
+        "location":"Zanthus", 
+        "latitude": -31.02617,
+        "longitude": 123.62454,
+        "acq_date": "2020-01-05",
+        "acq_time": "1642"
+        
+    },
+      {
+        "location":"Piallamore",
+        "latitude": -31.10923,
+        "longitude": 151.06583,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+    {
+        "location":"Londonderry",
+        "latitude": -31.23089,
+        "longitude": 121.17141,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Norwendoc",
+        "latitude": -31.43551,
+        "longitude": 151.74385,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+        
+    },
+    {
+        "location":"Ogunbil",
+        "latitude": -31.31985,
+        "longitude": 151.28845,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+    {
+        "location":"Parker Range",
+        "latitude": -31.66755,
+        "longitude": 119.77028,
+        "acq_date": "2020-01-07",
+        "acq_time": "1742"
+    },
+        {
+        "location":"Back River",
+        "latitude": -31.47849,
+        "longitude": 151.27527,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+    {
+        "location":"Hanging Rock",
+        "latitude": -31.48832,
+        "longitude": 151.25633,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+     {
+        "location":"Riamukka",
+        "latitude": -31.42282,
+        "longitude": 151.75841,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+    {
+        "location":"Higginsville",
+        "latitude": -31.84915,
+        "longitude": 121.49001,
+        "acq_date": "2020-01-05",
+        "acq_time": "1642"
+        
+    },
+    {
+        "location":"Mount Seaview",
+        "latitude": -31.35261,
+        "longitude": 152.15021,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+    },
+    {
+        "location":"North Cascade",
+        "latitude": -32.70587,
+        "longitude": 121.09057,
+        "acq_date": "2020-01-07",
+        "acq_time": "1742"
+        
+    },
+    {
+        "location":"Norseman",
+        "latitude": -32.47689,
+        "longitude": 121.34944,
+        "acq_date": "2020-01-07",
+        "acq_time": "1742"
+      
+    },
+    {
+        "location":"Dundas Nature Reserve",
+        "latitude": -32.60527,
+        "longitude": 122.04237,
+        "acq_date": "2020-01-05",
+        "acq_time": "0524"
+        
+    },
+    {
+        "location":"Buraminya",
+        "latitude": -32.75507,
+        "longitude": 121.94827,
+        "acq_date": "2020-01-07",
+        "acq_time": "1742"
+        
+    },
+    {
+        "location":"Balladonia",
+        "latitude": -32.80037,
+        "longitude": 123.98509,
+        "acq_date": "2020-01-07",
+        "acq_time": "1742"
+        
+    },
+    {
+        "location":"Fraser Range",
+        "latitude": -32.21124,
+        "longitude": 123.3386,
+        "acq_date": "2020-01-05",
+        "acq_time": "1642"
+        
+    },
+    {
+        "location":"Williams",
+        "latitude": -33.00632,
+        "longitude": 116.95641,
+        "acq_date": "2020-01-05",
+        "acq_time": "0700"
+        
+    },
+    {
+        "location":"Mount Ney",
+        "latitude": -33.22611,
+        "longitude": 122.27119,
+        "acq_date": "2020-01-07",
+        "acq_time": "1742"
+     
+    },
+    {
+        "location":"Muja",
+        "latitude": -33.41529,
+        "longitude": 116.31384,
+        "acq_date": "2020-01-07",
+        "acq_time": "1742"
+      
+    },
+    {
+        "location":"Newland", 
+        "latitude": -35.94083,
+        "longitude": 137.10417,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Wantagong",
+        "latitude": -35.80894,
+        "longitude": 147.60172,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600",
+        "satellite": "N"
+    },
+    {
+        "location":"Deua",
+        "latitude": -35.8312,
+        "longitude": 149.81454,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Lankeys Creek",
+        "latitude": -35.8053,
+        "longitude": 147.60896,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Ravine des Casoars, Flinders Chase",
+        "latitude": -35.91671,
+        "longitude": 136.60941,
+        "acq_date": "2020-01-05",
+        "acq_time": "0342"
+        
+    },
+    {
+        "location":"Rose River",
+        "latitude": -36.93142,
+        "longitude": 146.62033,
+        "acq_date": "2020-01-07",
+        "acq_time": "1600"
+    },
+    {
+        "location":"Port Latta",
+        "latitude": -40.85382,
+        "longitude": 145.38332,
+        "acq_date": "2020-01-07",
+        "acq_time": "1606"
+    },
+    {
+        "location":"Mangana",
+        "latitude": -41.61234,
+        "longitude": 147.83391,
+        "acq_date": "2020-01-07",
+        "acq_time": "1606"
+    },
+     {
+        "location":"Tasmania",
+        "latitude": -41.72721,
+        "longitude": 148.03438,
+        "acq_date": "2020-01-05",
+        "acq_time": "0336"
+    },
+    {
+        "location":"Fingal",
+        "latitude": -41.71416,
+        "longitude": 148.0173,
+        "acq_date": "2020-01-05",
+        "acq_time": "0336"
+    }
+]}
+   
